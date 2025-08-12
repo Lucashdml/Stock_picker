@@ -10,7 +10,7 @@ def stock_picker(stocks)
         best_days = [buy_day, buy_day + 1 + sell_day_offset]
       end
     end
-         end
+   end
 
   best_days
 end
